@@ -37,7 +37,7 @@ This baby runs on **Google Colab** (free GPU baby!) and comes with a clean **Str
 
 ### 💻 Option A – Run on Colab (recommended for chill start)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/](https://colab.research.google.com/drive/16yZNLUZsjFnr6DAzaM8O-boG8fuC-Yah?usp=sharing))
 
 Just upload your notebook, click those play buttons, and summarize your heart out.  
 No installs, no drama.
